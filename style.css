@@ -1,0 +1,92 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.thik {
+    margin-left: 50px;
+}
+
+.thik2 {
+    padding-right: 60px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+.pink-color {
+    color: rgb(221, 56, 83);
+}
+
+p {
+    color: rgb(112, 109, 109);
+}
+
+.flex {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    margin-right: 50px;
+    margin-left: 50p;
+
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.know-more {
+    text-decoration: none;
+    padding: 15px 50px;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+    background-image: linear-gradient(to left, rgb(247, 51, 83), rgb(88, 140, 235));
+}
+
+.box-shadow {
+    width: 40%;
+    border-radius: 10px;
+    margin: 10px 5% 50px 5%;
+    padding: 10px 25px;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+
+#id1 {
+    border-left: 5px solid rgb(247, 51, 83);
+}
+
+#id2 {
+    border-left: 5px solid rgb(247, 169, 51);
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.top-banner1 {
+    background-image: url(images/dream-bg.png);
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.size {
+    margin-left: 70px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(5, 5, 37);
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
